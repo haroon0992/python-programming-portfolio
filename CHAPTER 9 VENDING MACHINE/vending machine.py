@@ -1,9 +1,9 @@
 #  Vending Machine Program
 
 products = {
-    1: ("Chips", 2.50),
-    2: ("Juice", 2.00),
-    3: ("Biscuit", 1.25),
+    1: ("Cola", 2.50),
+    2: ("snickers", 2.00),
+    3: ("oreo", 1.25),
     4: ("Water", 1.00)
 }
 
